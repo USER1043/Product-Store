@@ -8,8 +8,6 @@ This is a full-stack web application built using the **MERN Stack** – MongoDB,
 
 Each product includes an image shown using a URL string provided during creation.
 
-The app was built by following a [freeCodeCamp.org](https://youtu.be/O3BUHwfHf84?si=d0YhOIGWNtFlTaCl) tutorial video, with explanations and guidance from [CodeSistency](https://www.youtube.com/@codesistency).
-
 🌐 Live Demo: https://mern-crash-course-7h57.onrender.com
 
 ---
